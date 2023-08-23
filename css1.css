@@ -1,0 +1,10 @@
+.git{
+    border: 2px dotted red;
+    width: 320px;
+    height: 220px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: green;
+}
